@@ -1,0 +1,4 @@
+11 abdullah 5 3200
+12 metin 9 5400
+3 fatma 24 7600
+14 tugce 8 6400
